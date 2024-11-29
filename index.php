@@ -15,5 +15,8 @@ $institusi = "Unika";
 <body>
 	<h1>Halo, saya <?= $nama; ?></h1>
 	<p><?= $institusi; ?></p>
+	<ul>
+		<li>clarissa</li>
+		<li>irene</li>
 </body>
 </html>
